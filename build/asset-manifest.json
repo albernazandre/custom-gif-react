@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/custom-git-react/static/css/main.59d89cf8.css",
+    "main.js": "/custom-git-react/static/js/main.914dca08.js",
+    "index.html": "/custom-git-react/index.html",
+    "main.59d89cf8.css.map": "/custom-git-react/static/css/main.59d89cf8.css.map",
+    "main.914dca08.js.map": "/custom-git-react/static/js/main.914dca08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59d89cf8.css",
+    "static/js/main.914dca08.js"
+  ]
+}
